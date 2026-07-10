@@ -1,0 +1,33 @@
+{
+  "Karthigailakshmi S": {
+    "class": "org.openhab.core.auth.ManagedUser",
+    "value": {
+      "name": "Karthigailakshmi S",
+      "passwordHash": "zfOnlZUSfVC+IkRYBoebQcCLekP81Mn2SGXABumiUQLfINLXE3Htk2hgLV6V7tRCZjVecWTFzclQJydSXKzUgQ\u003d\u003d",
+      "passwordSalt": "Ch8dAz8fdfz1YjhXIRgTiPaC8a56BJRfYwdsltJmRVWSSpEkKoq0nN08qHLtUPAG2iZw1Q02LMNKx+s4/mFfGw\u003d\u003d",
+      "roles": [
+        "administrator"
+      ],
+      "sessions": [
+        {
+          "sessionId": "7d87050c-b6c8-46b2-a37d-2db94deb0441",
+          "refreshToken": "639a5c231861400ba77d212e2c3ffdb4",
+          "createdTime": "Jun 19, 2026, 12:47:18 PM",
+          "lastRefreshTime": "Jun 23, 2026, 11:05:13 AM",
+          "clientId": "http://localhost:8080",
+          "redirectUri": "http://localhost:8080",
+          "scope": "admin",
+          "sessionCookie": true
+        }
+      ],
+      "apiTokens": [
+        {
+          "name": "Debian12",
+          "apiToken": "bfD0o1VOdg9zoDhR4Lu2zir1J+uypZCdRq/1aFE3HdWKgL9rVeFXLLYOfauxKqQLlvVXUvVj3QGbcIE7x5GaQA\u003d\u003d:u5IP+BhRw1rfSUHTj0kLXzY6asXkocjjRFME/OOJS5DnE0aWTcShSRd0SzGEKLVIrML3k9I6sKEF5Pm07YjMHg\u003d\u003d",
+          "createdTime": "Jun 19, 2026, 12:49:00 PM",
+          "scope": ""
+        }
+      ]
+    }
+  }
+}
